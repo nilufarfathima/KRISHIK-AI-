@@ -1,0 +1,6 @@
+.card:hover P{
+  color: #304D30 !important;
+}
+.card:hover {
+  background-color: white;
+}

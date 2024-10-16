@@ -1,0 +1,16 @@
+.background-image {
+    background-image: url("../img/home-img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+    width: 100vw;
+}
+
+.logod{
+    color: #0fb70f;
+    font-size: 80px;
+}
+.red{
+    color: white;
+}

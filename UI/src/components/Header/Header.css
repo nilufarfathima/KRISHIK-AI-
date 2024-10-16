@@ -1,0 +1,20 @@
+.logoWeb {
+    height: 60px;
+    width: 60px;
+}
+.test{
+    width: 150%;
+    height: 8vh;
+    padding-top: 14px;
+    color: white;
+}
+.header{
+    height: 10vh;
+}
+
+
+@media screen and (max-width: 500px) {
+    .inPhone {
+        display: none;
+    }
+}

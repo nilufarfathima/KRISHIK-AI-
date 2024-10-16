@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.App {
+    font-family: "Sora", sans-serif;
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-family: "Sora", sans-serif;
+}
+
+input {
+    font-family: "Sora", sans-serif;
+    padding: 0.2rem 1rem;
+    font-size: 1.3rem;
+}
+button{
+    background-color: #304D30 !important;
+    color: white !important;
+}
+button:hover{
+    background-color: white !important;
+    color: #304D30 !important;
+}

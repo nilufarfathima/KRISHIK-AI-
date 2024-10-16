@@ -1,0 +1,28 @@
+.footerLogo {
+    height: 80px;
+    width: 80px;
+}
+
+.footerBgImg {
+    height: 100px;
+    width: 80%;
+}
+
+.socialIcons {
+    height: 35px;
+    width: 35px;
+}
+.textcss{
+    color: black;
+    text-shadow: 1px 1px 1px gray;
+    background-color: white;
+}
+
+.testingfoot{
+    background-image: url("../img/footer.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40vh;
+    width: 100vw;
+}
